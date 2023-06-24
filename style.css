@@ -1,0 +1,76 @@
+body{
+  
+  background-color:#F57854;
+  text-align:center
+}
+
+#titulo{
+  color:white;
+  border:4px solid black;
+  padding:5px;
+  border-radius:20px;
+}
+
+#pong{
+  
+   color:white;
+  border:4px solid black;
+  padding:5px;
+  border-color:white;
+  border-color:white;
+  border-radius:20px;
+  
+}
+
+
+#breckout{
+  
+   color:white;
+  border:4px solid black;
+  padding:5px;
+  border-color:white;
+  border-radius:20px;
+  
+}
+
+#estrada{
+  
+   color:white;
+  border:4px solid black;
+  padding:5px;
+   border-color:white;
+  border-radius:20px;
+  
+}
+
+
+#trex{
+  
+    color:white;
+  border:4px solid black;
+  padding:5px;
+   border-color:white;
+  border-radius:20px;
+  
+  
+}
+
+#estourar_balao{
+  
+  color:white;
+  border:4px solid black;
+  padding:5px;
+   border-color:white;
+  border-radius:20px; 
+
+}
+
+#kwitter{
+
+  color:white;
+  border:4px solid black;
+  padding:5px;
+   border-color:white;
+  border-radius:20px; 
+
+}
